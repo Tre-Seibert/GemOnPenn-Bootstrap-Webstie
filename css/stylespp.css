@@ -76,6 +76,10 @@
   }
 }
 
+section {
+  padding: 3rem 0;
+}
+
 .pptitle {
   margin-bottom: 30px;
 }
